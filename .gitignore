@@ -1,0 +1,6 @@
+/selenium-testng-java/test-output/
+/selenium-testng-java/target/
+/*.log
+/.classpath
+/.project
+/.settings/
