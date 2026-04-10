@@ -1,0 +1,26 @@
+{
+  "test_user1": {
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "first_name": "Test",
+    "last_name": "User1",
+    "application_roles": {
+      "saucedemo" : "standard_user",
+    }
+  },
+  "test_user2": {
+    "username": "locked_out_user",
+    "password": "secret_sauce",
+    "application_roles": {
+       "saucedemo" : "locked_out_user",
+    }
+  },
+  "test_user3": {
+    "username": "error_user",
+    "password": "secret_sauce",
+    "application_roles": {
+      "saucedemo" : "error_user",
+
+    }
+  }
+}

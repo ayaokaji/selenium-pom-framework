@@ -1,0 +1,74 @@
+{
+  "active_cps_data": {
+    "project_name": "NAM site create 0903-1",
+    "project_status": "Open",
+    "project_code": "01203",
+    "project_risk_level": "3",
+    "project_start_date": "9/3/2024",
+    "project_expected_end_date": "1/15/2025",
+    "project_close_date": "",
+    "site_contains_phi": "Yes",
+    "programName": "Prog-123",
+    "project_lead": "Fahri kamari",
+    "signature_authority": "Test User1",
+    "other_owners": [
+      "Varun Jindal"
+    ],
+    "site_creator": "Fahri kamari",
+    "peer_reviewers": [
+      "Fahri kamari"
+    ],
+    "other_members": [
+      "Test User2"
+    ],
+    "phi_authorized_users": [
+      "Fahri kamari"
+    ],
+    "practice": "Global Corporate Services",
+    "discipline": "Global Corporate Services",
+    "client_code": "0009AAF01",
+    "client_name": "Aafmaa (Boslif)",
+    "billing_suffix": "01",
+    "high_risk_client": "Yes"
+  },
+  "archived_cps_data": {
+    "project_name": "Automation_NA_z5Bd8091",
+    "project_description": "CPS site is created in North America with QA automation script.",
+    "project_status": "Closed",
+    "project_code": "96923",
+    "project_risk_level": "1C",
+    "project_start_date": "31/05/2024",
+    "project_actual_end_date": "04/06/2024",
+    "project_close_date": "04/06/2024",
+    "project_start_date_on_panel": "5/31/2024",
+    "project_actual_end_date_on_panel": "6/4/2024",
+    "project_close_date_on_panel": "6/4/2024",
+    "created": "June 5",
+    "site_contains_phi": "Yes",
+    "programName": "program-96432",
+    "project_lead": "Test User1",
+    "signature_authority": "Fahri kamari",
+    "other_owners": [
+      "Fahri kamari"
+    ],
+    "site_creator": "Test User1",
+    "peer_reviewers": [
+      "Test User2"
+    ],
+    "other_members": [],
+    "phi_authorized_users": [
+      "Fahri kamari"
+    ],
+    "practice": "Global Corporate Services",
+    "discipline": "Global Corporate Services",
+    "client_code": "0009AAA01",
+    "client_name": "American Academy Of Act.",
+    "billing_suffix": "00",
+    "high_risk_client": "Yes",
+    "archive_libraries": {
+      "project_work_exists": true,
+      "project_deliverables_exists": true,
+      "client_correspondence_exists": false
+    }
+  }
+}

@@ -1,0 +1,532 @@
+2025-01-20 11:20:07,147 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T05:50:07.134194700Z
+2025-01-20 11:20:35,025 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.11.20.06.jpg
+2025-01-20 11:21:38,066 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T05:51:38.056029600Z
+2025-01-20 11:21:45,510 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.11.21.37.jpg
+2025-01-20 11:31:04,358 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T06:01:04.344024Z
+2025-01-20 11:31:13,544 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.11.31.04.jpg
+2025-01-20 11:35:58,015 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T06:05:58.003552200Z
+2025-01-20 11:36:02,971 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.11.35.57.jpg
+2025-01-20 12:11:24,827 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T06:41:24.809681100Z
+2025-01-20 12:11:30,927 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.11.24.jpg
+2025-01-20 12:15:31,317 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T06:45:31.304130600Z
+2025-01-20 12:15:36,436 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.15.31.jpg
+2025-01-20 12:24:49,884 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T06:54:49.879926300Z
+2025-01-20 12:24:55,540 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.24.49.jpg
+2025-01-20 12:26:09,316 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T06:56:09.312403900Z
+2025-01-20 12:26:15,485 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.26.09.jpg
+2025-01-20 12:27:43,898 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T06:57:43.872267800Z
+2025-01-20 12:27:45,932 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T06:57:45.903539200Z
+2025-01-20 12:27:49,369 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T06:57:49.345126200Z
+2025-01-20 12:28:03,021 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.27.42.jpg
+2025-01-20 12:28:06,053 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.27.44.jpg
+2025-01-20 12:28:07,817 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.27.48.jpg
+2025-01-20 12:32:31,461 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T07:02:31.449760600Z
+2025-01-20 12:32:37,779 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.32.31.jpg
+2025-01-20 12:36:20,204 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T07:06:20.193379900Z
+2025-01-20 12:37:33,509 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T07:07:33.494830600Z
+2025-01-20 12:37:40,388 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.37.33.jpg
+2025-01-20 12:37:55,267 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T07:07:55.242604400Z
+2025-01-20 12:38:02,030 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.37.54.jpg
+2025-01-20 12:39:27,020 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T07:09:27.008392400Z
+2025-01-20 12:39:32,454 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.39.26.jpg
+2025-01-20 12:41:55,927 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T07:11:55.916224800Z
+2025-01-20 12:42:01,890 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.41.55.jpg
+2025-01-20 12:43:52,342 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T07:13:52.328898200Z
+2025-01-20 12:43:57,551 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.43.52.jpg
+2025-01-20 12:45:23,400 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T07:15:23.382624600Z
+2025-01-20 12:45:28,548 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.45.23.jpg
+2025-01-20 12:48:16,850 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T07:18:16.817209800Z
+2025-01-20 12:49:24,390 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.48.15.jpg
+2025-01-20 12:50:08,834 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T07:20:08.823082900Z
+2025-01-20 12:50:14,700 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.50.08.jpg
+2025-01-20 12:53:02,410 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T07:23:02.400540200Z
+2025-01-20 12:53:07,832 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.53.02.jpg
+2025-01-20 12:54:39,937 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T07:24:39.925571300Z
+2025-01-20 12:54:46,195 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.54.39.jpg
+2025-01-20 12:57:52,050 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T07:27:52.026520300Z
+2025-01-20 12:58:09,312 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.12.57.51.jpg
+2025-01-20 16:12:25,478 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T10:42:25.454078400Z
+2025-01-20 16:12:28,767 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T10:42:28.735669200Z
+2025-01-20 16:12:36,764 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 16:12:37,522 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 16:12:37,524 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 16:12:38,837 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 16:12:39,364 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 16:12:39,367 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 16:12:39,478 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 16:12:39,541 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 16:12:39,849 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 16:12:40,475 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 16:12:40,545 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 16:12:40,574 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 16:12:40,643 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 16:12:40,703 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 16:12:40,704 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 16:12:41,180 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 16:12:41,306 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 16:12:41,361 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 16:12:41,365 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 16:12:41,758 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 16:12:41,816 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 16:12:42,233 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 16:12:42,273 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 16:12:42,618 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 16:12:42,771 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 16:12:42,874 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 16:12:43,014 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 16:12:43,147 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 16:12:43,240 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 16:12:43,383 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 16:12:43,385 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 16:12:43,403 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 16:12:43,730 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 16:12:43,732 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 16:12:44,574 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 16:12:44,682 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 16:12:44,778 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 16:12:44,985 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 16:12:46,178 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.4.12.24.jpg
+2025-01-20 16:12:46,510 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.4.12.28.jpg
+2025-01-20 16:22:04,432 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T10:52:04.413437400Z
+2025-01-20 16:22:09,726 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.4.22.03.jpg
+2025-01-20 16:23:40,205 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T10:53:40.192776500Z
+2025-01-20 16:23:45,902 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 16:23:46,188 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 16:23:46,190 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 16:23:46,747 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 16:23:46,795 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 16:23:46,854 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 16:23:47,196 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 16:23:47,281 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 16:23:47,284 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 16:23:47,502 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 16:23:47,751 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 16:23:47,884 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 16:23:48,112 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Two products added are displayed in the cart validated successfully
+2025-01-20 16:23:48,149 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Product item total validated successfully
+2025-01-20 16:23:48,196 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 16:23:48,302 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 16:23:48,303 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 16:23:48,648 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 16:23:48,697 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 16:23:59,377 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.4.23.39.jpg
+2025-01-20 16:25:20,090 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T10:55:20.076128100Z
+2025-01-20 16:25:25,727 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 16:25:25,968 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 16:25:25,970 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 16:25:26,560 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 16:25:26,599 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 16:25:26,647 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 16:25:26,869 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 16:25:26,940 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 16:25:26,942 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 16:25:27,114 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 16:25:27,311 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 16:25:27,443 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 16:25:27,680 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 16:25:27,717 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 16:25:27,770 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 16:25:27,897 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 16:25:27,897 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 16:25:28,316 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 16:25:28,363 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 16:25:28,681 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.4.25.19.jpg
+2025-01-20 16:51:34,557 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T11:21:34.544303300Z
+2025-01-20 16:51:38,486 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 16:51:38,649 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 16:51:38,651 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 16:51:38,991 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 16:51:39,016 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 16:51:39,068 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 16:51:39,279 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 16:51:39,328 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 16:51:39,329 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 16:51:39,471 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 16:51:39,655 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 16:51:39,794 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 16:51:40,063 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 16:51:40,106 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 16:51:40,157 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 16:51:40,290 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 16:51:40,290 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 16:51:40,882 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 16:51:40,953 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 16:51:41,603 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.4.51.34.jpg
+2025-01-20 20:02:26,014 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T14:32:25.997661300Z
+2025-01-20 20:02:32,626 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:02:32,745 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:02:32,748 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:02:33,176 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:02:33,216 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:02:33,262 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:02:33,507 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:02:33,570 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:02:33,571 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:02:33,800 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:02:34,047 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:02:34,235 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:02:34,513 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:02:34,559 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:02:34,613 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:02:34,742 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:02:34,743 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:02:35,167 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:02:35,222 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:02:35,595 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.02.25.jpg
+2025-01-20 20:14:49,281 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T14:44:49.270399Z
+2025-01-20 20:14:53,480 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:14:53,626 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:14:53,627 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:14:53,939 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:14:53,958 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:14:53,979 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:14:54,123 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:14:54,168 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:14:54,169 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:14:54,294 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:14:54,424 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:14:54,517 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:14:54,679 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:14:54,713 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:14:54,756 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:14:54,877 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:14:54,878 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:14:55,294 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:14:55,372 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:14:55,823 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.14.48.jpg
+2025-01-20 20:16:27,969 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T14:46:27.952331500Z
+2025-01-20 20:16:32,030 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:16:32,175 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:16:32,177 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:16:32,474 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:16:32,500 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:16:32,532 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:16:32,683 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:16:32,735 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:16:32,735 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:16:32,884 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:16:33,100 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:16:33,270 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:16:33,562 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:16:33,613 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:16:33,676 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:16:33,842 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:16:33,844 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:16:34,387 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:16:34,444 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:16:34,929 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.16.27.jpg
+2025-01-20 20:20:13,324 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T14:50:13.313250Z
+2025-01-20 20:20:17,802 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:20:17,937 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:20:17,938 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:20:18,259 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:20:18,297 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:20:18,340 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:20:18,601 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:20:18,687 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:20:18,690 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:20:18,924 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:20:19,196 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:20:19,389 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:20:19,706 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:20:19,766 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:20:19,830 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:20:20,019 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:20:20,020 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:20:20,469 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:20:20,522 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:20:21,155 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.20.13.jpg
+2025-01-20 20:24:32,768 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T14:54:32.749058400Z
+2025-01-20 20:24:38,474 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:24:38,675 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:24:38,677 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:24:38,918 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:24:38,950 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:24:38,986 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:24:39,182 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:24:39,236 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:24:39,237 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:24:39,378 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:24:39,574 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:24:39,700 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:24:39,883 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:24:39,915 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:24:39,956 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:24:40,102 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:24:40,102 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:24:40,444 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:24:40,521 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:24:41,025 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.24.32.jpg
+2025-01-20 20:27:02,277 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T14:57:02.269672200Z
+2025-01-20 20:27:11,562 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:27:11,730 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:27:11,733 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:27:12,017 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:27:12,042 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:27:12,081 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:27:12,297 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:27:12,345 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:27:12,345 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:27:12,487 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:27:12,639 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:27:12,753 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:27:12,932 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:27:12,963 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:27:13,019 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:27:13,126 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:27:13,126 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:27:13,430 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:27:13,466 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:27:13,919 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.27.02.jpg
+2025-01-20 20:33:53,173 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T15:03:53.160031100Z
+2025-01-20 20:33:58,162 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:33:58,415 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:33:58,417 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:33:59,024 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:33:59,076 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:33:59,127 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:33:59,454 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:33:59,525 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:33:59,526 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:33:59,725 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:34:00,078 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:34:00,198 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:34:00,702 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:34:00,813 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:34:00,940 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:34:01,206 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:34:01,207 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:34:01,605 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:34:01,671 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:34:02,067 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.33.52.jpg
+2025-01-20 20:35:33,071 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T15:05:33.032078700Z
+2025-01-20 20:35:37,419 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:35:37,541 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:35:37,543 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:35:37,893 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:35:37,925 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:35:37,990 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:35:38,158 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:35:38,198 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:35:38,199 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:35:38,313 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:35:38,482 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:35:38,628 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:35:39,066 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:35:39,189 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:35:39,285 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:35:39,474 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:35:39,475 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:35:39,842 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:35:39,886 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:35:40,258 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.35.32.jpg
+2025-01-20 20:39:00,673 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T15:09:00.658964Z
+2025-01-20 20:39:05,589 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:39:05,761 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:39:05,763 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:39:06,010 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:39:06,030 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:39:06,068 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:39:06,210 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:39:06,260 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:39:06,261 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:39:06,383 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:39:06,551 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:39:06,706 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:39:07,006 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:39:07,070 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:39:07,135 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:39:07,298 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:39:07,299 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:39:07,725 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:39:07,774 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:39:08,234 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.39.00.jpg
+2025-01-20 20:40:55,848 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T15:10:55.834716400Z
+2025-01-20 20:40:59,749 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:40:59,890 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:40:59,892 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:41:00,176 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:41:00,202 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:41:00,235 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:41:00,409 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:41:00,456 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:41:00,457 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:41:00,593 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:41:00,764 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:41:00,970 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:41:01,392 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:41:01,463 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:41:01,592 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:41:01,868 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:41:01,869 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:41:02,186 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:41:02,219 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:41:02,572 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.40.55.jpg
+2025-01-20 20:45:10,480 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T15:15:10.465936900Z
+2025-01-20 20:45:17,816 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:45:17,959 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:45:17,960 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:45:18,269 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:45:18,287 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:45:18,310 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:45:18,475 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:45:18,527 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:45:18,527 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:45:18,643 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:45:18,784 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:45:18,994 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:45:19,466 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:45:19,506 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:45:19,566 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:45:19,732 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:45:19,732 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:45:20,290 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:45:20,369 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:45:20,899 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.45.10.jpg
+2025-01-20 20:49:14,781 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T15:19:14.771521300Z
+2025-01-20 20:49:19,358 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:49:19,586 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:49:19,587 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:49:20,036 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:49:20,075 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:49:20,124 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:49:20,422 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:49:20,511 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:49:20,513 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:49:20,713 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:49:20,976 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:49:21,246 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:49:21,515 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:49:21,562 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:49:21,624 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:49:21,774 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:49:21,775 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:49:22,289 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:49:22,379 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:49:22,872 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.49.14.jpg
+2025-01-20 20:50:54,132 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T15:20:54.116068600Z
+2025-01-20 20:50:58,460 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:50:58,612 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:50:58,613 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:50:58,909 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:50:58,933 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:50:58,960 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:50:59,102 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:50:59,150 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:50:59,151 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:50:59,270 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:50:59,401 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:50:59,498 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:50:59,884 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:50:59,964 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:51:00,072 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:51:00,350 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:51:00,352 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:51:01,059 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:51:01,093 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:51:01,442 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.50.53.jpg
+2025-01-20 20:51:41,614 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T15:21:41.603394500Z
+2025-01-20 20:51:46,246 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:51:46,393 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:51:46,395 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:51:46,693 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:51:46,710 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:51:46,731 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:51:46,875 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:51:46,940 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:51:46,942 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:51:47,146 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:51:47,287 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:51:47,390 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:51:47,799 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:51:47,909 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:51:48,033 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:51:48,197 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:51:48,198 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:51:48,591 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:51:48,647 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:51:49,015 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.51.41.jpg
+2025-01-20 20:53:18,708 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T15:23:18.695586900Z
+2025-01-20 20:53:22,770 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:53:22,927 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:53:22,929 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:53:23,275 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:53:23,309 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:53:23,331 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:53:23,481 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:53:23,527 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:53:23,528 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:53:23,667 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:53:23,802 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:53:23,896 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:53:24,079 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:53:24,160 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:53:24,250 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:53:24,389 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:53:24,390 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:53:24,934 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:53:25,030 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:53:25,564 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.53.18.jpg
+2025-01-20 20:54:10,844 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T15:24:10.829443Z
+2025-01-20 20:54:14,882 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:54:15,026 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:54:15,028 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:54:15,319 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:54:15,345 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:54:15,373 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:54:15,540 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:54:15,591 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:54:15,592 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:54:15,722 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:54:15,844 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:54:15,955 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:54:16,131 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:54:16,170 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:54:16,213 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:54:16,339 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:54:16,339 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:54:16,673 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:54:16,711 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:54:17,039 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.54.10.jpg
+2025-01-20 20:55:49,951 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T15:25:49.940733600Z
+2025-01-20 20:55:55,438 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 20:55:55,628 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 20:55:55,631 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 20:55:56,203 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 20:55:56,248 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 20:55:56,293 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 20:55:56,569 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 20:55:56,637 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 20:55:56,639 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 20:55:56,840 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 20:55:57,100 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 20:55:57,368 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 20:55:57,677 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 20:55:57,735 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 20:55:57,830 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 20:55:58,029 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 20:55:58,030 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 20:55:58,446 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 20:55:58,518 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 20:55:59,055 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.8.55.49.jpg
+2025-01-20 21:09:45,413 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test Class Execution Start time UTC: 2025-01-20T15:39:45.390836800Z
+2025-01-20 21:09:56,294 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Page title validated successfully
+2025-01-20 21:09:56,743 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username and Password fields are visible on the Login page.
+2025-01-20 21:09:56,747 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Test data for Username and Password is available.
+2025-01-20 21:09:57,775 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Username entered matches the expected value.
+2025-01-20 21:09:57,846 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Password entered matches the expected value.
+2025-01-20 21:09:57,916 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Login button is enabled.
+2025-01-20 21:09:58,260 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Shopping page validated successfully.
+2025-01-20 21:09:58,345 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Availability of Products and Add to Cart Buttons validated successfully
+2025-01-20 21:09:58,346 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the first product.
+2025-01-20 21:09:58,608 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Clicking 'Add to Cart' for the second product.
+2025-01-20 21:09:58,897 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Cart icon displays the correct number of items: 2.
+2025-01-20 21:09:59,100 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User was successfully directed to the 'Your Cart' page.
+2025-01-20 21:09:59,584 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - two products added are displayed in the cart validated successfully
+2025-01-20 21:09:59,690 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - product Item total validated successfully
+2025-01-20 21:09:59,768 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Checkout button is visible and enabled.
+2025-01-20 21:10:00,049 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - User is on the 'Checkout: Your Information' page.
+2025-01-20 21:10:00,049 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Filling in the user information: First Name, Last Name, and Postal Code.
+2025-01-20 21:10:00,663 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - First Name, Last Name, and Postal Code fields have been filled correctly.
+2025-01-20 21:10:00,739 - com.automationframeworks.selenium_testng_java.utilities.Base -INFO - Continue button is visible and enabled.
+2025-01-20 21:10:01,303 - com.automationframeworks.selenium_testng_java.utilities.Listener -INFO - Screenshot saved to: C:\Users\viraj.s\eclipse-workspace\testng_selenium\selenium-testng-java\test-output\verifyProductPurchase2025.01.20.9.09.45.jpg
