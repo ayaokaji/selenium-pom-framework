@@ -7,8 +7,6 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
-import org.openqa.selenium.ie.InternetExplorerDriver;
-
 import java.util.HashMap;
 import java.util.Map;
 
@@ -42,7 +40,7 @@ public class WebDriverProvider {
             WebDriverManager.firefoxdriver().setup();
             driver = new FirefoxDriver(firefoxOptions);
         } else if (browserName.equalsIgnoreCase("edge")) {
-            WebDriverManager.iedriver().setup();
+            WebDriverManager.edgedriver().setup();
             driver = new EdgeDriver();
         }
 
