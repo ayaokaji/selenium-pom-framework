@@ -1,4 +1,8 @@
-/target/
-/log/
-/test-output/
+.settings/
+.vscode/
+log/
+test-output/
+target/
+.classpath
+.project
 *.log
